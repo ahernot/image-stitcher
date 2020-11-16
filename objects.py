@@ -24,3 +24,7 @@ class Image(object):
     def add(self, image: Image):
         # will concatenate another IMAGE
         pass
+
+
+
+# will have to define header, footer -> to save
